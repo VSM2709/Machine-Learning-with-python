@@ -41,23 +41,9 @@ Feel free to modify the code, experiment with different parameters, and explore 
 Here are some of the topics covered in this repository:
 
 Supervised Learning
- - Linear Regression
- - Logistic Regression
- - Support Vector Machines (SVM)
- - Decision Trees
- - Random Forests
 Unsupervised Learning
-  K-Means Clustering
-  Principal Component Analysis (PCA)
-  Gaussian Mixture Models (GMM)
 Deep Learning
-  Artificial Neural Networks (ANN)
-  Convolutional Neural Networks (CNN)
-  Recurrent Neural Networks (RNN)
 Reinforcement Learning
-  Q-Learning
-  Deep Q-Networks (DQN)
-  Policy Gradient Methods
 
 
 
