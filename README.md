@@ -40,10 +40,10 @@ Feel free to modify the code, experiment with different parameters, and explore 
 
 Here are some of the topics covered in this repository:
 
-Supervised Learning
-Unsupervised Learning
-Deep Learning
-Reinforcement Learning
+#Supervised Learning
+#Unsupervised Learning
+#Deep Learning
+#Reinforcement Learning
 
 
 
